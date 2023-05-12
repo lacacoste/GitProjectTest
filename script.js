@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>JS has been applied</h1>'
