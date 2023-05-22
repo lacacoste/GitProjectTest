@@ -1,1 +1,1 @@
-document.body.innerHTML = '<h1>JS has been applied, second commit.</h1><h2>H2 us added with the new branch</h2>'
+document.body.innerHTML = '<h1>JS has been applied, second commit.</h1><h2>H2 us added with the new branch</h2><br /><h3>H3 is added</h3>'
